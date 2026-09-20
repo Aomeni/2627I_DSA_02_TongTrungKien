@@ -101,5 +101,6 @@ public class QuickFindUF {
             System.out.println(p + " " + q);
         }
         System.out.println(uf.count() + " components");
+        scanner.close();
     }
 }
