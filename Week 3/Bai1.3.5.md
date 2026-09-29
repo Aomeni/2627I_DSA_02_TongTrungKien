@@ -1,0 +1,1 @@
+Đoạn code in ra biểu diễn dưới dạng mã nhị phân (binary representation) của số nguyên dương $N$

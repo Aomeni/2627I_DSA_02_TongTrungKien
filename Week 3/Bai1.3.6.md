@@ -1,0 +1,1 @@
+Các phần tử trong q đã bị đảo ngược hoàn toàn so với ban đầu.
